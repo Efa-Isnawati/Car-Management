@@ -1,0 +1,46 @@
+.card {
+    text-align: left;
+    font-family: Helvetica;
+    color: black;
+    font-weight: 500;
+    margin-bottom: 100px;
+    width: 100%;
+    justify-content: center;
+    box-shadow: 10px;
+    border-radius: 8px;
+}
+
+.image {
+    width: 20%;
+    margin-bottom: 20px;
+}
+
+.card .card-title {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card .card-text {
+    font-family: Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+#why-us .title-card h1 {
+    font-family: Helvetica;
+    font-weight: 600;
+    text-align: left;
+    margin-top: 100px;
+    color: black;
+    font-size: 32px;
+  }
+  
+  #why-us .title-card p {
+    font-family: Helvetica;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 50px;
+    color: black;
+    font-size: 16px;
+  }

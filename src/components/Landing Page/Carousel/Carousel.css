@@ -1,0 +1,30 @@
+.card-testi .testi-photo img {
+    width: 70%;
+    justify-content: center;
+    padding-top: 30px;
+    margin-right: 10px;
+    margin-left: 30px;
+}
+.card-testi .testi .rate {
+    width: 40%;
+}
+#testimonial p {
+    font-size: 16px;
+    font-family: Helvetica;
+}
+.testi .username {
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.card-testi {
+    width: 95%;
+    background-color: #F1F3FF;
+    border-radius: 8px;
+}
+
+#testimonial h1 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+}
